@@ -18,6 +18,7 @@ Maintainers (CyanogenMod 9):
 * __LG Optimus Sol (E730):__ arcee, Kali-
 * __LG myTouch (E739):__ arcee, Kali-
 * __LG myTouch Q / LG Eclypse (C800):__ chui101
+* __Motorola Triumph (CDMA):__ g60madman (Team MTDEV)
 * __Motorola Xoom (CDMA):__ Bazar6, Steady Hawkin, TDR (Team Rogue)
 * __Motorola Xoom (Wi-Fi):__ Bazar6, Steady Hawkin, TDR (Team Rogue)
 * __Samsung Captivate (SGH-I896 / SGH-I897):__ pawitp
@@ -63,8 +64,8 @@ Translators:
 * __Czech:__ Ondrej Zima
 * __Dutch:__ Marco Brohet, Kasper Hettinga, Sam Segers, Eddy Witkamp
 * __Finnish:__ Antti Leukkunen
-* __French:__ Sébastien Vaucher, David Girault, Tanguy Pruvot
-* __German:__ Matthias Büchner, Alexander Hofbauer, Sebastian K (DerSeppel), Ricco Thiel, Andreas Böhm
+* __French:__ Sï¿½bastien Vaucher, David Girault, Tanguy Pruvot
+* __German:__ Matthias Bï¿½chner, Alexander Hofbauer, Sebastian K (DerSeppel), Ricco Thiel, Andreas Bï¿½hm
 * __Italian:__ Francesco Foresta, Moreno Pojer, Eugenio Ziliotto, Giulio Cervera
 * __Japanese:__ Takuo Kitame
 * __Korean:__ Inseok Lee
